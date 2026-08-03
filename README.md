@@ -1,0 +1,2 @@
+# GoitBili
+一个全新的为Android＆Wear OS圆形方形屏幕手表打造的第三方B站，参考了哔哩终端和Orbit部分接口,GoitBili进行了优化手表体验,采用了Material3风格进行设计
